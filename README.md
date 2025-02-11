@@ -15,19 +15,6 @@ Poster - https://app.luminpdf.com/viewer/67abaa776ebfc1bf3f009768
 Video Demo - https://drive.google.com/file/d/1k3hgHufLlV4vUuNNuPT7IdHnfcmeLwEL/view?usp=sharing
 
 
-## Project Structure
-```
-├── main.py              # Main script to execute data pipeline
-├── models.py            # Hypothesis testing and machine learning models
-├── preprocessor.py      # Data cleaning and preprocessing
-├── scraper.py           # Web scraping for data collection
-├── visualization.py     # Data visualization scripts
-├── data/                # Raw scraped datasets
-├── preprocessed_data/   # Cleaned and processed datasets
-├── results/             # Outputs, including clustered data and visualizations
-└── README.md            # Project documentation
-```
-
 ## Data Sources
 The project gathers data from multiple sources:
 - **Passport Index**: Henley Passport Index
