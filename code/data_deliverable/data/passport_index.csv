@@ -1,0 +1,598 @@
+Rank,Passport Issuing Country,Number of Visa-Free Destinations,Year
+1,France,194,2022
+1,Germany,194,2022
+1,Italy,194,2022
+1,Japan,194,2022
+1,Singapore,194,2022
+1,Spain,194,2022
+2,Austria,193,2022
+2,Finland,193,2022
+2,Ireland,193,2022
+2,Luxembourg,193,2022
+2,Netherlands,193,2022
+2,South Korea,193,2022
+2,Sweden,193,2022
+3,Belgium,192,2022
+3,Denmark,192,2022
+3,United Kingdom,192,2022
+4,Norway,191,2022
+4,Portugal,191,2022
+4,Switzerland,191,2022
+5,Greece,190,2022
+5,Malta,190,2022
+5,New Zealand,190,2022
+6,Australia,189,2022
+6,Czech Republic,189,2022
+6,Hungary,189,2022
+6,Poland,189,2022
+7,Canada,188,2022
+7,Lithuania,188,2022
+7,United States,188,2022
+8,Estonia,187,2022
+9,Latvia,186,2022
+9,Slovakia,186,2022
+9,Slovenia,186,2022
+10,Iceland,185,2022
+11,Croatia,184,2022
+11,United Arab Emirates,184,2022
+12,Cyprus,182,2022
+12,Liechtenstein,182,2022
+12,Malaysia,182,2022
+13,Bulgaria,179,2022
+13,Romania,179,2022
+14,Monaco,178,2022
+15,Chile,177,2022
+16,Argentina,174,2022
+17,Brazil,173,2022
+18,San Marino,172,2022
+19,Andorra,171,2022
+19,Hong Kong,171,2022
+20,Brunei,168,2022
+21,Israel,166,2022
+22,Barbados,165,2022
+23,Mexico,161,2022
+24,Bahamas,158,2022
+25,Saint Kitts and Nevis,156,2022
+25,Saint Vincent and the Grenadines,157,2022
+25,Vatican City,157,2022
+26,Uruguay,156,2022
+26,Seychelles,156,2022
+27,Antigua and Barbuda,154,2022
+28,Costa Rica,152,2022
+29,Trinidad and Tobago,151,2022
+30,Mauritius,150,2022
+31,Panama,149,2022
+32,Grenada,148,2022
+32,Saint Lucia,148,2022
+32,Ukraine,148,2022
+33,Paraguay,147,2022
+34,Dominica,144,2022
+34,Macau,144,2022
+35,Taiwan,143,2022
+36,Peru,142,2022
+37,Serbia,138,2022
+38,Guatemala,137,2022
+39,El Salvador,136,2022
+40,Colombia,135,2022
+40,Honduras,135,2022
+41,Solomon Islands,134,2022
+42,Samoa,132,2022
+43,Nicaragua,130,2022
+43,Tonga,130,2022
+44,Tuvalu,128,2022
+45,North Macedonia,127,2022
+46,Marshall Islands,126,2022
+46,Montenegro,126,2022
+46,Venezuela,126,2022
+47,Kiribati,124,2022
+48,Albania,123,2022
+48,Micronesia,123,2022
+48,Palau,123,2022
+49,Moldova,122,2022
+50,Bosnia and Herzegovina,121,2022
+50,Georgia,121,2022
+51,Russia,119,2022
+52,Turkey,118,2022
+53,Qatar,108,2022
+53,South Africa,108,2022
+54,Belize,104,2022
+55,Kuwait,103,2022
+56,East Timor,96,2022
+57,Ecuador,95,2022
+58,Maldives,94,2022
+58,Vanuatu,94,2022
+59,Bahrain,91,2022
+59,Botswana,91,2022
+59,Fiji,91,2022
+59,Guyana,91,2022
+60,Jamaica,90,2022
+60,Nauru,90,2022
+60,Oman,90,2022
+61,Saudi Arabia,86,2022
+62,China,85,2022
+62,Papua New Guinea,85,2022
+63,Bolivia,82,2022
+63,Thailand,82,2022
+64,Belarus,81,2022
+64,Suriname,81,2022
+65,Lesotho,80,2022
+65,Namibia,80,2022
+66,Indonesia,78,2022
+66,Kazakhstan,78,2022
+66,Eswatini,78,2022
+67,Kenya,76,2022
+67,Malawi,76,2022
+68,Dominican Republic,74,2022
+68,Kosovo,74,2022
+69,Tanzania,73,2022
+70,Azerbaijan,72,2022
+71,Tunisia,71,2022
+71,Zambia,71,2022
+71,Morocco,71,2022
+72,Gambia,70,2022
+73,Cape Verde,69,2022
+73,Philippines,69,2022
+73,Uganda,69,2022
+74,Armenia,68,2022
+75,Sierra Leone,65,2022
+76,Ghana,66,2022
+76,Rwanda,66,2022
+76,Zimbabwe,66,2022
+77,Kyrgyzstan,65,2022
+78,Cuba,64,2022
+79,Benin,63,2022
+79,Mongolia,63,2022
+79,Mozambique,63,2022
+80,India,62,2022
+80,Uzbekistan,62,2022
+81,Gabon,61,2022
+81,São Tomé and Príncipe,61,2022
+81,Tajikistan,61,2022
+82,Burkina Faso,60,2022
+82,Madagascar,60,2022
+83,Ivory Coast,59,2022
+83,Guinea,59,2022
+83,Mauritania,59,2022
+83,Togo,59,2022
+84,Equatorial Guinea,58,2022
+84,Senegal,58,2022
+85,Niger,57,2022
+86,Algeria,56,2022
+86,Cambodia,56,2022
+86,Guinea-Bissau,56,2022
+86,Mali,56,2022
+87,Bhutan,55,2022
+87,Central African Republic,55,2022
+87,Chad,55,2022
+87,Comoros,55,2022
+87,Egypt,55,2022
+87,Haiti,55,2022
+87,Jordan,55,2022
+87,Vietnam,55,2022
+88,Angola,53,2022
+88,Cameroon,53,2022
+89,Congo,52,2022
+89,Turkmenistan,52,2022
+90,Burundi,51,2022
+90,Laos,51,2022
+90,Liberia,51,2022
+91,Djibouti,50,2022
+92,Myanmar,48,2022
+93,Ethiopia,47,2022
+94,DR Congo,46,2022
+94,South Sudan,46,2022
+95,Iran,45,2022
+95,Lebanon,45,2022
+95,Nigeria,45,2022
+95,Sudan,45,2022
+96,Eritrea,43,2022
+96,Sri Lanka,43,2022
+97,Bangladesh,42,2022
+97,North Korea,42,2022
+98,Libya,40,2022
+98,Nepal,40,2022
+98,Palestine,40,2022
+99,Somalia,36,2022
+100,Yemen,35,2022
+101,Pakistan,34,2022
+102,Iraq,31,2022
+103,Syria,29,2022
+104,Afghanistan,28,2022
+1,Japan,193,2023
+2,Singapore,192,2023
+3,Austria,190,2023
+3,Finland,190,2023
+3,France,190,2023
+3,Germany,190,2023
+3,Italy,190,2023
+3,South Korea,190,2023
+3,Spain,190,2023
+3,Sweden,190,2023
+4,Denmark,189,2023
+4,Ireland,189,2023
+4,Luxembourg,189,2023
+4,Netherlands,189,2023
+4,United Kingdom,189,2023
+5,Belgium,188,2023
+5,Malta,188,2023
+5,Portugal,188,2023
+5,Norway,188,2023
+6,Czech Republic,187,2023
+6,New Zealand,187,2023
+6,Poland,187,2023
+6,Switzerland,187,2023
+7,Australia,186,2023
+7,Canada,186,2023
+7,Greece,186,2023
+7,Hungary,186,2023
+7,United States,186,2023
+8,Lithuania,185,2023
+9,Latvia,184,2023
+9,Slovakia,184,2023
+9,Slovenia,184,2023
+10,Estonia,183,2023
+11,Iceland,182,2023
+12,Malaysia,182,2023
+13,Cyprus,180,2023
+13,Liechtenstein,180,2023
+14,United Arab Emirates,179,2023
+15,Bulgaria,177,2023
+15,Romania,177,2023
+16,Croatia,176,2023
+16,Monaco,176,2023
+17,Chile,175,2023
+18,Argentina,173,2023
+19,San Marino,172,2023
+20,Brazil,171,2023
+19,Andorra,170,2023
+19,Hong Kong,170,2023
+20,Brunei,166,2023
+21,Barbados,163,2023
+22,Israel,159,2023
+22,Mexico,159,2023
+23,Bahamas,156,2023
+24,Seychelles,155,2023
+24,Saint Kitts and Nevis,155,2023
+25,Saint Vincent and the Grenadines,154,2023
+25,Vatican City,154,2023
+26,Uruguay,153,2023
+27,Costa Rica,151,2023
+28,Antigua and Barbuda,150,2023
+28,Trinidad and Tobago,150,2023
+29,Mauritius,148,2023
+30,Grenada,147,2023
+30,Saint Lucia,147,2023
+30,Ukraine,150,2023
+31,Macau,144,2023
+31,Panama,144,2023
+31,Taiwan,144,2023
+32,Dominica,143,2023
+32,Paraguay,143,2023
+33,Peru,136,2023
+34,Serbia,137,2023
+35,Guatemala,136,2023
+36,Honduras,134,2023
+37,Georgia,132,2023
+37,Colombia,132,2023
+37,El Salvador,132,2023
+37,Solomon Islands,132,2023
+38,Samoa,131,2023
+39,Tonga,130,2023
+40,Nicaragua,127,2023
+40,Tuvalu,127,2023
+40,Venezuela,127,2023
+41,North Macedonia,125,2023
+42,Montenegro,124,2023
+44,Albania,123,2023
+44,Kiribati,123,2023
+45,Marshall Islands,122,2023
+46,Moldova,120,2023
+47,Palau,119,2023
+48,Bosnia and Herzegovina,119,2023
+49,Micronesia,116,2023
+51,Russia,118,2023
+52,Turkey,112,2023
+53,Belize,104,2023
+54,Qatar,103,2023
+55,South Africa,102,2023
+56,Vanuatu,101,2023
+57,Kuwait,98,2023
+58,East Timor,94,2023
+59,Ecuador,92,2023
+60,Maldives,91,2023
+61,Nauru,89,2023
+62,Fiji,88,2023
+63,Bahrain,87,2023
+63,Botswana,87,2023
+64,Guyana,86,2023
+64,Jamaica,86,2023
+65,Saudi Arabia,83,2023
+66,Oman,82,2023
+66,Papua New Guinea,82,2023
+67,China,80,2023
+67,Thailand,80,2023
+68,Belarus,79,2023
+69,Bolivia,78,2023
+69,Lesotho,78,2023
+69,Namibia,78,2023
+70,Suriname,77,2023
+71,Kazakhstan,76,2023
+72,Indonesia,75,2023
+72,Eswatini,75,2023
+73,Malawi,74,2023
+74,Kenya,73,2023
+75,Tanzania,72,2023
+76,Kosovo,71,2023
+76,Tunisia,70,2023
+76,Zambia,70,2023
+77,Azerbaijan,69,2023
+77,Dominican Republic,69,2023
+77,Gambia,69,2023
+78,Uganda,67,2023
+79,Philippines,66,2023
+79,Zimbabwe,66,2023
+80,Armenia,65,2023
+80,Cape Verde,65,2023
+80,Morocco,65,2023
+80,Sierra Leone,65,2023
+81,Ghana,63,2023
+81,Kyrgyzstan,63,2023
+82,Cuba,62,2023
+83,Mongolia,61,2023
+83,Mozambique,61,2023
+83,Rwanda,61,2023
+84,Benin,60,2023
+84,India,60,2023
+85,São Tomé and Príncipe,59,2023
+85,Tajikistan,59,2023
+85,Uzbekistan,59,2023
+86,Mauritania,58,2023
+87,Burkina Faso,57,2023
+88,Gabon,56,2023
+88,Ivory Coast,56,2023
+88,Senegal,56,2023
+89,Equatorial Guinea,55,2023
+89,Guinea,55,2023
+89,Madagascar,55,2023
+89,Vietnam,55,2023
+90,Algeria,54,2023
+90,Cambodia,54,2023
+90,Togo,54,2023
+91,Comoros,53,2023
+91,Jordan,53,2023
+91,Mali,53,2023
+91,Niger,53,2023
+92,Bhutan,52,2023
+92,Central African Republic,52,2023
+92,Chad,52,2023
+92,Egypt,52,2023
+92,Guinea-Bissau,52,2023
+92,Turkmenistan,52,2023
+93,Angola,50,2023
+93,Burundi,50,2023
+93,Cameroon,50,2023
+93,Laos,50,2023
+94,Congo,49,2023
+94,Liberia,49,2023
+95,Djibouti,48,2023
+95,Haiti,48,2023
+96,Myanmar,47,2023
+97,Ethiopia,46,2023
+98,Eritrea,45,2023
+98,Nigeria,45,2023
+98,South Sudan,45,2023
+99,Iran,44,2023
+100,DR Congo,42,2023
+100,Sudan,42,2023
+101,Lebanon,41,2023
+102,Libya,40,2023
+102,North Korea,40,2023
+102,Sri Lanka,40,2023
+103,Bangladesh,39,2023
+104,Palestine,38,2023
+105,Nepal,36,2023
+106,Somalia,35,2023
+107,Yemen,34,2023
+108,Pakistan,33,2023
+109,Syria,30,2023
+110,Iraq,29,2023
+111,Afghanistan,27,2023
+1,Japan,193,2024
+2,Singapore,192,2024
+2,South Korea,192,2024
+3,Germany,190,2024
+3,Spain,190,2024
+4,Finland,189,2024
+4,Italy,189,2024
+4,Luxembourg,189,2024
+5,Austria,188,2024
+5,Denmark,188,2024
+5,Netherlands,188,2024
+5,Sweden,188,2024
+6,France,187,2024
+6,Ireland,187,2024
+6,Portugal,187,2024
+6,United Kingdom,187,2024
+7,Belgium,186,2024
+7,New Zealand,186,2024
+7,Norway,186,2024
+7,Switzerland,186,2024
+7,United States,186,2024
+8,Australia,185,2024
+8,Canada,185,2024
+8,Czech Republic,185,2024
+8,Greece,185,2024
+8,Malta,185,2024
+9,Hungary,183,2024
+10,Lithuania,182,2024
+10,Poland,182,2024
+10,Slovakia,182,2024
+11,Estonia,181,2024
+11,Latvia,181,2024
+11,Slovenia,181,2024
+12,Iceland,180,2024
+13,Malaysia,179,2024
+14,Liechtenstein,178,2024
+15,Cyprus,176,2024
+15,United Arab Emirates,176,2024
+16,Chile,174,2024
+16,Monaco,174,2024
+16,Romania,174,2024
+17,Bulgaria,173,2024
+17,Croatia,173,2024
+18,Hong Kong,171,2024
+19,Argentina,170,2024
+19,Brazil,170,2024
+20,San Marino,169,2024
+21,Andorra,168,2024
+22,Brunei,166,2024
+23,Barbados,163,2024
+24,Israel,159,2024
+24,Mexico,159,2024
+25,Saint Kitts and Nevis,157,2024
+26,Bahamas,155,2024
+27,Vatican City,154,2024
+28,Seychelles,153,2024
+28,Uruguay,153,2024
+29,Saint Vincent and the Grenadines,152,2024
+30,Antigua and Barbuda,151,2024
+30,Trinidad and Tobago,151,2024
+31,Costa Rica,150,2024
+32,Saint Lucia,147,2024
+33,Grenada,146,2024
+33,Mauritius,146,2024
+34,Dominica,145,2024
+34,Taiwan,145,2024
+35,Macau,144,2024
+35,Ukraine,144,2024
+36,Panama,143,2024
+37,Paraguay,142,2024
+38,Peru,136,2024
+38,Serbia,136,2024
+39,El Salvador,134,2024
+40,Guatemala,133,2024
+40,Honduras,133,2024
+41,Colombia,132,2024
+41,Samoa,132,2024
+41,Solomon Islands,132,2024
+42,Tonga,130,2024
+42,Venezuela,129,2024
+43,Nicaragua,128,2024
+43,Tuvalu,128,2024
+44,North Macedonia,125,2024
+45,Kiribati,124,2024
+45,Montenegro,124,2024
+46,Marshall Islands,123,2024
+47,Moldova,121,2024
+48,Palau,120,2024
+49,Russia,119,2024
+50,Bosnia and Herzegovina,118,2024
+50,Micronesia,118,2024
+51,Georgia,116,2024
+52,Albania,115,2024
+53,Turkey,110,2024
+54,South Africa,105,2024
+55,Belize,103,2024
+56,Qatar,99,2024
+57,Vanuatu,98,2024
+58,Kuwait,96,2024
+59,East Timor,94,2024
+60,Ecuador,92,2024
+61,Nauru,90,2024
+62,Fiji,89,2024
+62,Maldives,89,2024
+63,Guyana,88,2024
+64,Botswana,87,2024
+64,Jamaica,87,2024
+65,Bahrain,86,2024
+66,Papua New Guinea,83,2024
+67,Oman,81,2024
+67,Saudi Arabia,81,2024
+68,Bolivia,80,2024
+68,China,80,2024
+69,Namibia,79,2024
+69,Thailand,79,2024
+70,Belarus,78,2024
+71,Lesotho,77,2024
+71,Suriname,77,2024
+72,Kazakhstan,76,2024
+73,Eswatini,75,2024
+74,Malawi,74,2024
+75,Indonesia,72,2024
+75,Kenya,72,2024
+75,Tanzania,72,2024
+75,Zambia,72,2024
+76,Tunisia,71,2024
+77,Azerbaijan,70,2024
+77,Dominican Republic,70,2024
+78,Gambia,69,2024
+79,Cape Verde,67,2024
+79,Philippines,67,2024
+79,Uganda,67,2024
+80,Armenia,66,2024
+80,Zimbabwe,66,2024
+81,Cuba,65,2024
+81,Ghana,65,2024
+81,Morocco,65,2024
+82,Kyrgyzstan,64,2024
+82,Sierra Leone,64,2024
+83,Mozambique,63,2024
+84,Benin,62,2024
+84,Mongolia,62,2024
+85,Rwanda,61,2024
+85,São Tomé and Príncipe,61,2024
+86,India,60,2024
+86,Mauritania,60,2024
+86,Tajikistan,60,2024
+87,Burkina Faso,59,2024
+87,Uzbekistan,59,2024
+88,Gabon,58,2024
+89,Ivory Coast,57,2024
+89,Senegal,57,2024
+90,Equatorial Guinea,56,2024
+90,Madagascar,56,2024
+91,Guinea,55,2024
+91,Mali,55,2024
+91,Togo,55,2024
+91,Vietnam,55,2024
+92,Bhutan,54,2024
+92,Cambodia,54,2024
+92,Chad,54,2024
+92,Comoros,54,2024
+92,Niger,54,2024
+93,Algeria,53,2024
+93,Central African Republic,53,2024
+93,Egypt,53,2024
+93,Guinea-Bissau,53,2024
+93,Jordan,53,2024
+93,Turkmenistan,53,2024
+94,Angola,51,2024
+94,Burundi,51,2024
+94,Cameroon,51,2024
+94,Laos,51,2024
+95,Liberia,50,2024
+96,Congo,49,2024
+96,Haiti,49,2024
+97,Djibouti,48,2024
+98,Myanmar,47,2024
+99,Ethiopia,46,2024
+99,Nigeria,46,2024
+100,Eritrea,44,2024
+100,South Sudan,44,2024
+101,Iran,43,2024
+102,DR Congo,42,2024
+102,Lebanon,42,2024
+102,Sri Lanka,42,2024
+102,Sudan,42,2024
+103,Bangladesh,41,2024
+103,Kosovo,41,2024
+103,Libya,41,2024
+104,North Korea,40,2024
+105,Nepal,38,2024
+105,Palestine,38,2024
+106,Somalia,35,2024
+107,Yemen,34,2024
+108,Pakistan,32,2024
+109,Syria,30,2024
+110,Iraq,29,2024
+111,Afghanistan,27,2024

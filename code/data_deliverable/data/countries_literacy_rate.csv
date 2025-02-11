@@ -1,0 +1,168 @@
+"country","LiteracyRateAllGenders","LiteracyRateFemale","LiteracyRateMale",Year
+"India",74,65.8,82.4,2018
+"China",97,95.2,98.5,2020
+"Indonesia",96,94.6,97.4,2020
+"Pakistan",58,46.5,69.3,2019
+"Nigeria",62,52.7,71.3,2018
+"Brazil",94,94.5,94.1,2021
+"Bangladesh",75,72,77.8,2020
+"Russia",100,99.7,99.7,2021
+"Ethiopia",52,44.4,57.2,2017
+"Mexico",95,94.5,96.1,2020
+"Philippines",96,96.9,95.7,2019
+"Egypt",75,,,2022
+"DR Congo",81,,,2022
+"Vietnam",96,94.6,97,2019
+"Iran",89,88.7,92.4,2021
+"Turkey",97,94.4,99.1,2019
+"Thailand",94,92.8,95.5,2021
+"Tanzania",82,78.2,85.5,2022
+"South Africa",90,,,2021
+"Italy",99,99,99.4,2018
+"Kenya",83,79.8,85.5,2022
+"Myanmar",89,86.3,92.4,2019
+"Colombia",96,95.9,95.4,2020
+"Uganda",81,,,2022
+"Sudan",61,56.1,65.4,2018
+"Spain",99,98,99,2020
+"Algeria",81,75.3,87.4,2018
+"Argentina",99,99.1,98.9,2018
+"Afghanistan",37,22.6,52.1,2021
+"Poland",100,99.8,99.8,2021
+"Morocco",77,,,2022
+"Ukraine",100,100,100,2021
+"Angola",72,,,2022
+"Saudi Arabia",98,96,98.6,2020
+"Uzbekistan",100,100,100,2022
+"Yemen",70,55,85.1,2015
+"Mozambique",63,53.8,74.1,2021
+"Ghana",80,,,2020
+"Peru",94,92,97,2020
+"Malaysia",95,93.6,96.2,2019
+"Nepal",71,63.3,81,2021
+"Madagascar",77,75.8,78.8,2022
+"Ivory Coast",90,,,2019
+"Venezuela",98,97.7,97.4,2022
+"Cameroon",78,,,2020
+"Niger",38,,,2022
+"Syria",86,81,91.7,2015
+"Mali",31,,,2020
+"Taiwan",99,97.3,99.7,2014
+"Burkina Faso",34,,,2022
+"Malawi",68,,,2022
+"Zambia",88,,,2020
+"Kazakhstan",100,99.7,99.8,2020
+"Chile",97,97,97.1,2022
+"Romania",99,98.7,99.1,2021
+"Chad",27,18.2,35.4,2022
+"Somalia",41,,,2022
+"Ecuador",94,,,2022
+"Guatemala",84,79.3,87.7,2022
+"Senegal",58,,,2022
+"Cambodia",84,79.8,88.4,2022
+"Zimbabwe",90,89.7,88.3,2022
+"Guinea",45,31.3,61.2,2021
+"Rwanda",76,73.3,78.7,2021
+"Benin",47,,,2022
+"Burundi",76,,,2022
+"Bolivia",94,94,94.9,2020
+"Tunisia",84,,,2022
+"Haiti",62,58.3,65.3,2016
+"Dominican Republic",95,95.3,95.1,2021
+"Jordan",98,98.4,98.7,2021
+"South Sudan",35,28.9,40.3,2018
+"Cuba",100,99.7,99.6,2021
+"Honduras",89,88.7,88.2,2019
+"Papua New Guinea",64,62.8,65.6,2015
+"Czech Republic",99,99,99,2011
+"Azerbaijan",100,99.7,99.9,2019
+"Tajikistan",100,99.7,99.8,2010
+"Greece",98,97.4,98.5,2018
+"Portugal",97,95.9,97.8,2021
+"Hungary",99,99.1,99.1,2021
+"United Arab Emirates",98,97.2,98.8,2022
+"Belarus",100,99.9,99.9,2019
+"Israel",92,,,1983
+"Togo",67,55.1,80,2019
+"Sierra Leone",49,,,2022
+"Laos",88,,,2022
+"Nicaragua",83,82.8,82.4,2015
+"Serbia",99,99.1,99.9,2019
+"Libya",91,85.6,96.7,2015
+"Paraguay",95,94.2,94.9,2020
+"Kyrgyzstan",100,99.5,99.7,2019
+"Bulgaria",98,98.2,98.7,2021
+"Turkmenistan",99,99.6,99.8,2005
+"El Salvador",90,,,2020
+"Republic of the Congo",81,75.4,85.9,2021
+"Singapore",97,96.1,98.9,2020
+"Central African Republic",37,,,2020
+"Liberia",48,34.1,62.7,2017
+"Costa Rica",98,98.1,98,2021
+"Lebanon",95,93.3,96.9,2019
+"Mauritania",67,62.2,71.8,2021
+"Oman",97,92.7,97,2022
+"Panama",96,95.4,98.8,2019
+"Kuwait",96,95.4,97.1,2020
+"Croatia",99,99.2,99.7,2021
+"Eritrea",77,68.9,84.4,2018
+"Georgia",100,99.7,99.6,2022
+"Mongolia",99,99.2,99.1,2020
+"Uruguay",99,99,98.5,2019
+"Moldova",100,99.5,99.7,2021
+"Puerto Rico",92,92.4,92.4,2021
+"Bosnia and Herzegovina",98,98.1,99.4,2022
+"Gambia",59,,,2022
+"Albania",99,98.2,98.7,2022
+"Jamaica",89,93.1,84,2015
+"Armenia",100,99.7,99.8,2020
+"Qatar",94,94.7,92.4,2017
+"Botswana",89,88.9,88,2015
+"Lithuania",100,99.8,99.8,2021
+"Namibia",92,92.3,90.6,2021
+"Gabon",86,84.7,86.2,2022
+"Lesotho",82,,,2022
+"Guinea-Bissau",54,,,2022
+"Slovenia",100,99.7,99.7,2001
+"North Macedonia",98,97.6,99.1,2012
+"Latvia",100,99.9,99.9,2021
+"Equatorial Guinea",95,93,97.4,2015
+"Trinidad and Tobago",98,98.7,99.2,2000
+"Bahrain",98,94.9,99.9,2018
+"Timor-Leste",70,,,2020
+"Estonia",100,99.9,99.9,2021
+"Mauritius",92,90.5,93.5,2021
+"Cyprus",99,99.2,99.6,2021
+"Eswatini",89,,,2020
+"Fiji",99,99.1,99.1,2018
+"Comoros",62,56.9,67,2022
+"Guyana",90,,,2022
+"Bhutan",72,,,2022
+"Solomon Islands",77,,,1999
+"Suriname",95,93.4,96.5,2021
+"Montenegro",99,98.5,99.4,2021
+"Cape Verde",91,87.4,94.2,2022
+"Malta",95,96.4,93.4,2021
+"Maldives",98,98.4,97.6,2021
+"Brunei",98,96.9,98.3,2021
+"Belize",81,,,2001
+"Vanuatu",89,88.4,89.8,2021
+"New Caledonia",97,96.5,97.3,2006
+"Barbados",100,99.6,99.6,2014
+"Sao Tome and Principe",94,,,2022
+"Samoa",99,99.3,99,2021
+"Guam",100,99.7,99.8,2000
+"Grenada",99,98.6,98.6,2014
+"Tonga",99,99.5,99.4,2021
+"Seychelles",96,96.4,95.4,2020
+"Aruba",98,97.8,97.8,2020
+"Saint Vincent and the Grenadines",97,,,1980
+"Antigua and Barbuda",99,99.4,98.4,2001
+"Andorra",100,100,100,2016
+"Cayman Islands",99,99,98.7,2021
+"Greenland",100,100,100,2015
+"American Samoa",97,,,1980
+"Marshall Islands",98,98.2,98.3,2011
+"San Marino",100,99.9,99.9,2018
+"Palau",97,96.3,96.8,2015
+"Total",83.40909005007447,71.87540925759176,79.16379824943239,
