@@ -9,6 +9,10 @@ This project explores relationships between a country's passport strength and va
 - **Seyit Metin Barut** (sbarut)
 - **Can Tulpar** (ctulpar)
 
+## Links
+Poster - https://app.luminpdf.com/viewer/67abaa776ebfc1bf3f009768 
+Video Demo - https://drive.google.com/file/d/1k3hgHufLlV4vUuNNuPT7IdHnfcmeLwEL/view?usp=sharing
+
 
 ## Project Structure
 ```
